@@ -4,40 +4,26 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>안녕하세요. 연세대학교에서 산업공학 및 컴퓨터과학을 공부하고 있는 황동영입니다. 빅데이터 학회 YBigTa Science Team에서 활동하였고, 주 관심분야는 Statistical Machine Learning(그리고, 다양한 domain에 대한 응용)입니다. </p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hello, I'm Dongyeong Hwang, undergrate student study at Yonsei Univ. IE and CS(Double Major, 2015~) My research interests mainly lie in statistical machine learning (and its various applications).</p>
 
-<h2>Skills</h2>
+
+
+<h2>Research Interests and Skill, Studys</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Git</li>
+	<li>Statistical Learning</li>
+	<li>Stochastic Process</li>
+	<li>Deep Learning - Computer Vision, NLP, and Bayesian</li>
+	<li>Operational Research</li>
+    <li>Financial Engineering</li>
+    <li>Algorithms</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Projects(Not updated)</h2>
 
 <ul>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
