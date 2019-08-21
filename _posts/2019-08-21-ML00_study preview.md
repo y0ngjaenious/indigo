@@ -20,7 +20,7 @@ description: Study preview
 
 It's just over a year since I started studying about data science. When I just began, I studied with the book, **JAMES, Gareth, et al. *An introduction to statistical learning*.  springer, 2013.**
 
-![](http://y0ngjaenious.github.io/assets/post_img/ml_summary/00_01.JPG)
+![](http://y0ngjaenious.github.io/assets/post_img/ml_summary/00_01.jpg)
 
 After this, I wanted to determine my research interests. So I tried to understand several topics. I studied about 1) computer vision with *CS231n, Stanford*, 2) overall deep learning with *Ian Goodfellow, Deep Learning*, 3) stochastic process. Plus, I took several lectures for improving my backgound in statisctics, linear algebra,  and for enhancing programming skills.
 
