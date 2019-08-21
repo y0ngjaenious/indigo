@@ -28,7 +28,7 @@ Finally, I think I'm really interested in statistical learning and its various a
 
 ## Study Reference
 
-Main reference is **Christopher Bishop, Pattern Recognition and Machine Learning. Springer 2007. **
+Main reference is **Christopher Bishop, *Pattern Recognition and Machine Learning.* Springer 2007.**
 
 But my summary do not strictly follow the order of the textbook.
 
