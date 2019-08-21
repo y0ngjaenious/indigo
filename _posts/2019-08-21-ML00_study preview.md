@@ -1,3 +1,21 @@
+---
+
+title: "ML00-study preview"
+layout: post
+date: 2019-08-21 12:00
+use_math: true
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+
+- Statistical Learning
+- Machine Learning
+category: blog
+author: y0ngjae
+description: Study preview
+
+---
+
 # Study Preview
 
 It's just over a year since I started studying about data science. When I just began, I studied with the book, **JAMES, Gareth, et al. *An introduction to statistical learning*.  springer, 2013.**
