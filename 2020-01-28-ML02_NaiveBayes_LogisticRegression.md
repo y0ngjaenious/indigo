@@ -1,4 +1,22 @@
-## Machine Learning Study
+---
+
+title: "ML02-NaiveBayes_LogisticRegression"
+layout: post
+date: 2020-01-28 17:00
+use_math: true
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+
+- Statistical Learning
+- Machine Learning
+category: blog
+author: y0ngjae
+description: Naive Bayes, Logistic Regression
+
+---
+
+# Machine Learning Study
 
 **Week2, 2020.01.28**
 
